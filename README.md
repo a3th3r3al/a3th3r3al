@@ -1,10 +1,10 @@
-### Hi there 👋, my name is currently unrevealed
-#### Wannabe dev, so don`t expect something fascinating here.
-![Wannabe dev, so don`t expect something fascinating here.](https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Invoker_Anime.png/revision/latest?cb=20211016213254)
+### Hi there 👋, my name is **currently unrevealed**
+#### <center>Wannabe dev, so don`t expect something fascinating here.</center>
+![<center>JACKPOT!</center>](![](https://static.wikia.nocookie.net/devilmaycry/images/4/41/Jackpot.jpg/revision/latest?cb=20210518144340))
 
-Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon.
+<center>Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon. </center>
 
-Skills: NODE JS/Python/ TYPESCRIPT(a bit) / JAVASCRIPT
+Skills: <center>![](https://img.icons8.com/color/48/typescript.png) + ![](https://img.icons8.com/color/48/python--v1.png) + ![](https://img.icons8.com/color/48/nodejs.png) + ![](https://img.icons8.com/color/48/javascript--v1.png) + ...</center>
 
 - 🔭 I’m currently working on practicing coding skills 
 - 🌱 I’m currently learning anything related to my stack 
