@@ -1,7 +1,7 @@
 ### hi, my name is **currently unrevealed**
 ![](https://static.wikia.nocookie.net/devilmaycry/images/4/41/Jackpot.jpg/revision/latest?cb=20210518144340)
 
-<center>Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon. </center>
+<center>Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don. See ya soon. </center>
 
 Skills: ![](https://img.icons8.com/color/48/typescript.png) + ![](https://img.icons8.com/color/48/python--v1.png) + ![](https://img.icons8.com/color/48/nodejs.png) + ![](https://img.icons8.com/color/48/javascript--v1.png) + ...
 
