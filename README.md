@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is **currently unrevealed**
-#### <center>JACKPOT!</center>
 ![](https://static.wikia.nocookie.net/devilmaycry/images/4/41/Jackpot.jpg/revision/latest?cb=20210518144340)
 
 <center>Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon. </center>
 
-Skills: <center>![](https://img.icons8.com/color/48/typescript.png) + ![](https://img.icons8.com/color/48/python--v1.png) + ![](https://img.icons8.com/color/48/nodejs.png) + ![](https://img.icons8.com/color/48/javascript--v1.png) + ...</center>
+Skills: ![](https://img.icons8.com/color/48/typescript.png) + ![](https://img.icons8.com/color/48/python--v1.png) + ![](https://img.icons8.com/color/48/nodejs.png) + ![](https://img.icons8.com/color/48/javascript--v1.png) + ...
 
 - 🔭 I’m currently working on practicing coding skills 
 - 🌱 I’m currently learning anything related to my stack 
