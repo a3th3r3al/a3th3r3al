@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is currently unrevealed
+#### Wannabe dev, so don`t expect something fascinating here.
+![Wannabe dev, so don`t expect something fascinating here.]([link](https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Invoker_Lore.png/revision/latest/scale-to-width-down/280?cb=20220607094002))
 
-<!--
-**a3th3r3al/a3th3r3al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon.
 
-Here are some ideas to get you started:
+Skills: NODE JS/Python/ TYPESCRIPT(a bit) / JAVASCRIPT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on practicing coding skills 
+- 🌱 I’m currently learning anything related to my stack 
+- ⚡ Fun fact: Started September 2025, kinda new to the community 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/a3th3r3al)  
+
