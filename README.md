@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is currently unrevealed
 #### Wannabe dev, so don`t expect something fascinating here.
-![Wannabe dev, so don`t expect something fascinating here.]((https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Invoker_Anime.png/revision/latest?cb=20211016213254))
+![Wannabe dev, so don`t expect something fascinating here.](https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Invoker_Anime.png/revision/latest?cb=20211016213254)
 
 Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don, so feel free to write me about your proposals. See ya soon.
 
