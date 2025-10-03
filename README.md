@@ -1,4 +1,4 @@
-### hi, my name is **currently unrevealed**
+### hi, my name is **███████████**
 ![](https://static.wikia.nocookie.net/devilmaycry/images/4/41/Jackpot.jpg/revision/latest?cb=20210518144340)
 
 <center>Trying my best to actually become a dev of some sort. Currently in Rostov-on-Don. See ya soon. </center>
